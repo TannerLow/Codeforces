@@ -6,6 +6,7 @@
 #include <set>
 #include <algorithm>
 #include <string>
+#include <deque>
 
 typedef unsigned long long ull;
 typedef long long ll;
